@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=schirmanndev&color=blueviolet" alt="Profile views" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruivaodev&color=blueviolet" alt="Profile views" />
 
 </p>
 
@@ -17,7 +17,7 @@
 
 - 🚀 &nbsp; Moro no **Brasil** mas meu sonho é morar em **Canadá/Vancouver** ou **USA**
 
-- ❤️‍🔥&nbsp; Meu esposo é programador e você pode encontra-lo aqui<br><a href="https://www.linkedin.com/in/wcfx"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=LINKEDIN">&nbsp;</img></a><a href="https://github.com/wcfx"><img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=GITHUB"></img></a>
+- ❤️‍🔥&nbsp; Meu esposo é programador e você pode encontra-lo aqui<br><a href="https://www.linkedin.com/in/wcfx"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=LINKEDIN">&nbsp;</img></a><a href="https://github.com/wagaodev"><img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=GITHUB"></img></a>
 
 - 🧒🏼 &nbsp;Sou mamãe de uma criança maravilhosa chamada **Antonella**<br>
 
@@ -40,9 +40,9 @@
 
 <center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schirmanndev&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruivaodev&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=8)
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=schirmanndev&show_icons=true&theme=nightowl" alt="wcfx's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ruivaodev&show_icons=true&theme=nightowl" alt="wcfx's stats"/>
 </center>
 
 ##
