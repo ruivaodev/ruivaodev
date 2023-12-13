@@ -8,10 +8,9 @@
 
 </p>
 
-- ⚛&nbsp;React Native Developer
-- 🏆 &nbsp;Estou buscando minha primeira oportunidade como Dev React Native Jr.
-
-- 👨🏻‍💻&nbsp; Estou sempre estudando **React Native, JavaScript, Tests, Redux, GraphQL, NodeJS.**
+- ⚛&nbsp;FullStack Develloper
+.
+- 👨🏻‍💻&nbsp; Estou sempre estudando **React Native, JavaScript, Tests, Redux, Zustand, GraphQL, NodeJS.**
 
 - 💬&nbsp; Me chame se você tiver uma oportunidade que se encaixe em meu perfil [Linkedin](https://www.linkedin.com/in/schirmann)
 
