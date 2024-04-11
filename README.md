@@ -11,10 +11,11 @@
 - ⚛&nbsp;FullStack Develloper
 .
 - 👨🏻‍💻&nbsp; Estou sempre estudando **React Native, JavaScript, Tests, Redux, Zustand, GraphQL, NodeJS.**
+- 👨🏻‍💻&nbsp; Estou me desafiando em **GOlang
 
 - 💬&nbsp; Me chame se você tiver uma oportunidade que se encaixe em meu perfil [Linkedin](https://www.linkedin.com/in/schirmann)
 
-- 🚀 &nbsp; Moro no **Brasil** mas meu sonho é morar em **Canadá/Vancouver** ou **USA**
+- 🚀 &nbsp; Moro no **Brasil** 
 
 - ❤️‍🔥&nbsp; Meu esposo é programador e você pode encontra-lo aqui<br><a href="https://www.linkedin.com/in/wcfx"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=LINKEDIN">&nbsp;</img></a><a href="https://github.com/wagaodev"><img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=GITHUB"></img></a>
 
