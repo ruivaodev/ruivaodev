@@ -11,7 +11,7 @@
 - ⚛&nbsp;FullStack Develloper
 .
 - 👨🏻‍💻&nbsp; Estou sempre estudando **React Native, JavaScript, Tests, Redux, Zustand, GraphQL, NodeJS.**
-- 👨🏻‍💻&nbsp; Estou me desafiando em **GOlang
+- 👨🏻‍💻&nbsp; Estou me desafiando em **GOlang**
 
 - 💬&nbsp; Me chame se você tiver uma oportunidade que se encaixe em meu perfil [Linkedin](https://www.linkedin.com/in/schirmann)
 
